@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ToptanPiyasa
+
+  Created by Buğra Öner on 26.10.2022.
+  
+*/
+
+"home" = "";
+"showAlert" = "Uyarı Göster";
+"ok" = "Tamam";
+"cancel" = "Vazgeç";
+"warning" = "Uyarı";

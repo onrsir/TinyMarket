@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ToptanPiyasa
+
+  Created by Onur Sır on 13.02.2023.
+  
+*/
+
+"home" = "Home";
+"showAlert" = "Show Alert";
+"ok" = "Ok";
+"cancel" = "Cancel";
+"warning" = "Warning";
